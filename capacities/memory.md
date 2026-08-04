@@ -33,7 +33,7 @@ Balanced view: external memory is not new. Writing, books, and phones all offloa
 ## Open questions
 - Which knowledge is worth internalizing in an AI-rich world, and which is fine to offload?
 - Is lost internal knowledge reversible once you return to effortful learning?
-- The bigger worry: [Does AI harm your brain?](../does-ai-harm-your-brain.md)
+- The bigger worry: [Does AI harm your brain?](../deep-dives/does-ai-harm-your-brain.md)
 
 ## Sources
 See [SOURCES.md](../SOURCES.md#memory--internalized-knowledge). Key: Sparrow et al. (2011); Kosmyna et al. (2025, preprint); Dahmani & Bohbot (2020).

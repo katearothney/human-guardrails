@@ -33,6 +33,11 @@ Every capacity gets looked at four ways:
 
 **Start here:** [Effortful / critical thinking](capacities/effortful-thinking.md) is the fully worked example. The rest are sketched above and will be built out over time, same structure, same evidence grading.
 
+## Deep dives
+Cross-cutting questions that span more than one capacity:
+
+- [Does AI harm your brain?](deep-dives/does-ai-harm-your-brain.md) — an honest look at the memory and brain-activity worry, and why it is not the same as neurodegeneration.
+
 ## How this is built
 - Every empirical claim is cited and graded for strength.
 - Counter-evidence is included, not hidden.

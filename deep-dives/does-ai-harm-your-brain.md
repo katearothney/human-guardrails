@@ -36,4 +36,4 @@ Notice the "ifs." This is a **hypothesis, not a finding.** No study has shown AI
 That is exactly why this project is about **guardrails**, not alarm. The goal is not to fear the tool. It is to use it in the ways that keep our minds engaged.
 
 ## Sources
-See [SOURCES.md](SOURCES.md#long-term-brain-health--cognitive-reserve). Key: Kosmyna et al. (2025, preprint); Stern (2004); Wilson et al. (2013).
+See [SOURCES.md](../SOURCES.md#long-term-brain-health--cognitive-reserve). Key: Kosmyna et al. (2025, preprint); Stern (2004); Wilson et al. (2013).
