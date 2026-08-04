@@ -17,6 +17,8 @@ Honestly: this is an emerging, mixed picture, and most of it cannot yet show tha
 - The EEG "cognitive debt" study is a small, non-peer-reviewed preprint, and its own authors warn against headlines like "ChatGPT makes you dumb." The effects are short-term and task-specific. (Kosmyna et al., 2025) — *preliminary*
 - The underlying offloading mechanism is well established, but offloading is often *adaptive*: it frees attention for other work and is not inherently harmful. (Risko & Gilbert, 2016) — *moderate*
 
+- Better evidence is on the way. A registered RCT protocol will use eye-tracking and fNIRS to measure cognitive effort during AI-assisted writing in 160 students (Chen et al., 2025), and a separate RCT already found students did better with an AI tutor but *worse* once it was removed (Bastani et al., 2024). The field is moving from surveys and preprints toward rigorous causal designs, but definitive results are not in yet.
+
 **The honest summary:** the concern is plausible and worth taking seriously, the mechanisms are real, and the direct evidence is still thin. Used differently, the same tools can deepen thinking, for example a tireless sparring partner that asks you harder questions than you would ask yourself. *How* you use it may matter more than *whether* you use it.
 
 ## Human guardrails
