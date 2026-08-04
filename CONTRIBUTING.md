@@ -5,7 +5,7 @@ This is an open, evolving exploration. Contributions are welcome, especially:
 - **A new capacity** — follow the structure in [`capacities/effortful-thinking.md`](capacities/effortful-thinking.md).
 - **Better evidence** for an existing claim — cite it, grade it, note the caveats.
 - **Counter-evidence** — genuinely wanted, not just confirming cases.
-- **A concrete guardrail** at any level: personal practice, product/design pattern, or policy.
+- **A concrete guardrail**: something *beyond* technology (a human practice or condition), or something *enforced in* technology (a limit, default, or design choice).
 
 ## Ground rules
 - Cite primary sources. Grade evidence honestly: **strong / moderate / preliminary**.

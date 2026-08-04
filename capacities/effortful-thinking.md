@@ -21,24 +21,22 @@ Honestly: this is an emerging, mixed picture, and most of it cannot yet show tha
 
 **The honest summary:** the concern is plausible and worth taking seriously, the mechanisms are real, and the direct evidence is still thin. Used differently, the same tools can deepen thinking, for example a tireless sparring partner that asks you harder questions than you would ask yourself. *How* you use it may matter more than *whether* you use it.
 
-## Human guardrails
+## Guardrails
+Two kinds, and this project is exploring both.
 
-**Personal practices**
-- Generate *after* you have struggled, not before. Form your own view first, then let the model challenge it.
-- Use AI to ask you questions, not just to hand you answers ("what am I missing?", "argue the other side").
-- Write the first draft yourself. Bring AI in to critique, not to create.
-- Retrieve from your own memory before you retrieve from the model.
+**1. Beyond technology** — things unrelated to tech that keep the capacity strong on their own.
+- Alone time to think with no input; boredom and quiet are where original thought forms.
+- Do the thinking *before* you reach for a tool. The struggle is where the learning happens.
+- Analog rituals: think on paper, walk to work a problem, argue it out with a person.
+- Regular "hard mode" time with no assistance, so the muscle stays strong.
+- Read longer and slower than the feed wants, and teach or explain ideas to someone else.
 
-**Product and design patterns**
-- Build "productive struggle" in by default: coach and question before completing.
-- Show the reasoning, not just the answer, so the user stays in the loop.
-- Make offloading visible and optional, not the frictionless default.
-- Offer a "tutor mode" that withholds the answer and walks you toward it.
-
-**Policy and institutions**
-- Redesign assessment so it measures thinking, not just output.
-- Set norms that protect skill-building for novices, who have the most to lose.
-- In procurement, ask vendors for evidence that a tool augments capability rather than replacing it.
+**2. Enforced in technology** — limits and design built into the tools to make them safer and more human-centered.
+- Friction by default: coach and question before completing, instead of instant answers.
+- Tutor or Socratic modes that withhold the answer and walk you toward it.
+- Show the reasoning, not just the output, so you stay in the loop.
+- Make offloading a visible choice, not the silent default.
+- At the system level: assessment that measures thinking rather than output, and procurement that requires "augments, not replaces" evidence.
 
 ## Open questions
 - Does heavy AI use cause lasting change, or do effects disappear once the tool is removed?

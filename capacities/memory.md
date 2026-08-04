@@ -15,20 +15,20 @@ Knowing things. Not just being able to look them up, but holding facts, patterns
 
 Balanced view: external memory is not new. Writing, books, and phones all offload memory, usually for the better. The concern is specific: when we stop internalizing the things we actually want to think *with*, we may keep the index and lose the library.
 
-## Human guardrails
-**Personal practices**
-- Retrieve before you retrieve: try to recall it yourself before asking the AI. Retrieval is what strengthens memory.
-- Learn the thing you will reason *with*; offload the thing you will only ever reference.
-- Put AI answers into your own words before moving on. Encoding needs effort.
+## Guardrails
+Two kinds, and this project is exploring both.
 
-**Product and design patterns**
-- Build "recall first" and spaced retrieval into learning tools, instead of answer-on-demand.
+**1. Beyond technology** — things unrelated to tech that keep memory strong on their own.
+- Recall before you look it up; retrieval is what strengthens memory.
+- Memorize the handful of things you truly think *with*: core facts, frameworks, the people and stories that matter.
+- Keep a notebook or commonplace book; writing by hand aids encoding.
+- Space your reviews over days and weeks, and tell someone what you learned.
+
+**2. Enforced in technology** — limits and design built into the tools to protect memory.
+- "Recall first" and spaced retrieval built into learning tools, not answer-on-demand.
 - Separate "reference" use from "learning" use, and design them differently.
-- Let people mark what they want to *remember* versus merely *retrieve*.
-
-**Policy and institutions**
-- In education, protect the retrieval practice and effortful encoding that build durable knowledge.
-- Measure what learners can do *without* the tool, not just with it.
+- Let people flag what they want to remember versus merely retrieve.
+- At the system level: measure what learners can do *without* the tool, not just with it.
 
 ## Open questions
 - Which knowledge is worth internalizing in an AI-rich world, and which is fine to offload?

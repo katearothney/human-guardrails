@@ -4,7 +4,7 @@
 
 An open, evolving exploration of the ways AI can quietly reshape how we think, remember, decide, create, and connect, and the safeguards (personal, product, and policy) that could protect what matters.
 
-This is thinking in public. It is grounded in research where research exists, honest where it does not, and meant to be argued with. I am not claiming to have this figured out.
+This is thinking in public. It is grounded in research where research exists, honest where it does not, and meant to be argued with. I am not claiming to have this figured out. The heart of this project is two kinds of guardrails I am exploring: things *beyond* technology that keep our capacities strong (alone time, real activity, human connection), and limits *within* technology that make it safer and more human-centered. The evidence is the grounding, not the point.
 
 > **A note on honesty.** The science here is real but young and mixed. Some findings are solid; many are correlational, small-sample, or preprints; several older "tech rots your brain" claims have failed to replicate. Used well, these same tools can *augment* the capacities below rather than erode them. I grade the evidence for every claim and include counter-evidence on purpose. Treat this as a map of an open question, not a verdict. All views here are my own.
 
@@ -17,7 +17,9 @@ Every capacity gets looked at four ways:
 1. **The capacity** — what it is, and why it is worth protecting.
 2. **How AI can disrupt it** — the mechanism.
 3. **What the evidence says** — graded honestly (strong / moderate / preliminary), with counter-evidence.
-4. **Human guardrails** — at three levels: personal practices, product and design patterns, and policy.
+4. **Guardrails** (the point) — the two kinds this project explores:
+   - **Beyond technology:** non-tech practices and conditions that keep the capacity strong, like alone time, personal activity, and human connection.
+   - **Enforced in technology:** limits, defaults, and design built into the tools to make them safer, more responsible, and more human-centered.
 
 ## The capacities
 
@@ -37,6 +39,8 @@ Every capacity gets looked at four ways:
 Cross-cutting questions that span more than one capacity:
 
 - [Does AI harm your brain?](deep-dives/does-ai-harm-your-brain.md) — an honest look at the memory and brain-activity worry, and why it is not the same as neurodegeneration.
+
+*Planned: a model of the guardrails that could be built directly into AI systems, and how they would be enforced (evals, monitoring, red-teaming, and policy).*
 
 ## How this is built
 - Every empirical claim is cited and graded for strength.
