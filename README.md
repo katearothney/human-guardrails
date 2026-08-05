@@ -6,9 +6,9 @@ This is me working that out in public. I'm not a neuroscientist and I don't have
 
 I'm exploring two kinds of guardrails here.
 
-The first has nothing to do with technology. It's the stuff that keeps us sharp on its own: alone time, moving your body, real conversations, being bored, getting rest.
+- The first has nothing to do with technology. It's the stuff that keeps us sharp on its own: alone time, moving your body, real conversations, being bored, getting rest.
 
-The second is about the technology itself: limits and design choices we could build in so it treats us like people instead of usage numbers.
+- The second is about the technology itself: limits and design choices we could build in so it treats us like people instead of usage numbers.
 
 Both kinds live in [guardrails.md](guardrails.md).
 
