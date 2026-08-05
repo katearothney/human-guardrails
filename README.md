@@ -16,11 +16,14 @@ The fuller picture is in two companion files. [matrix.md](matrix.md) is the grad
 
 ## Why I care
 
-We tend to pick up tools long before we understand what they do to us. AI is a strange case. Older tools mostly held our information for us. This one can do the actual thinking and remembering, and even some of the talking to other people. Sometimes that's a real gift. Other times I think it costs us something we won't notice until it's already gone. I want to be specific about which capacities are at risk, what the research really says, and what we can do.
+We tend to pick up tools long before we understand what they do to us. AI is a strange case. Older tools mostly held our information for us. But on our behalf, this emerging technology can do the actual thinking, remembering and talking to other people. Sometimes that's a real gift, but other times I think it costs us something we won't notice until it's already gone. I want to be specific about which human capacities are at risk, what current research really says, and potential guardrails to mitigate these risks.
 
 ## The capacities
 
-I've grouped these three ways, because they're not the same kind of thing. Some happen inside your own head. Some show up in what you're willing to do and how hard you're willing to try. Some only show up in how you treat other people.
+I've grouped these three ways.
+- Some happen inside your own head.
+- Some show up in what you're willing to do and how hard you're willing to try.
+- Some only show up in how you treat other people.
 
 The formal version of this split, which the [matrix](matrix.md) uses, is the trilogy of mind: cognition, affect, and conation, meaning thinking, feeling, and willing. Conation is the old word for the willing and striving part, and it's the one the usual "cognitive and emotional" framing forgets. It's also the part AI reaches most directly. The plain-language groupings below are the same idea.
 
@@ -69,7 +72,7 @@ I've written these up properly in [patterns.md](patterns.md).
 
 ## Being honest about the evidence
 
-The science on this is real but young, and a lot of it is messy. A few findings are solid. Most of it is small studies, surveys, or papers that haven't been peer reviewed, and some of the old "screens are rotting your brain" claims fell apart when people tried to repeat them. Used the right way, these tools can actually make us better at some of this. So I grade the evidence behind every claim, I keep in the studies that argue against my own worry, and I treat this as an open question I'm still figuring out.
+The science on this is real but young. While a few findings are solid, much of the science is messy. Most of it is small studies, surveys, or papers that haven't been peer reviewed, and some of the old "screens are rotting your brain" claims fell apart when people tried to repeat them. So I grade the evidence behind every claim, I keep in the studies that argue against my own worry, and I treat this as an open question I'm continously exploring.
 
 Here's what the grades mean:
 
@@ -99,7 +102,7 @@ Bigger questions that touch more than one capacity:
 
 - [Does AI harm your brain?](deep-dives/does-ai-harm-your-brain.md) My honest read on the memory and brain-activity worry, and why it isn't the same thing as neurodegeneration.
 
-Coming next: how you'd actually check that a guardrail works. Evals, monitoring, red-teaming, policy.
+Coming next: how you'd actually check that a guardrail works. Evals, tracing, monitoring, red-teaming, policy.
 
 ## How I'm building this
 
