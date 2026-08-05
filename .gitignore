@@ -1,0 +1,7 @@
+.DS_Store
+.env
+
+# Private working files, not for publication
+VOICE.md
+humancapacitiesmatrix.md
+humanguardrailsprojectbrief.md

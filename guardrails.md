@@ -56,6 +56,18 @@ Nothing on this list is a control you can switch on. The closest thing to a real
 - A study of what happens when people stop. We know attachment moves in five weeks. We have no idea whether it moves back.
 - A direct test of the watermark worry. Does a visible provenance label actually reduce the number of people who go and verify?
 
+### Effects I suspect, and how you'd test them
+
+These are effects I keep worrying about but can't back up yet. Each is a claim someone could test. Tags: *research happening* or *haven't seen research*.
+
+- **AI flattery narrows your mind.** The more it agrees with you and tells you you're right, the less you can sit with a view you disagree with. Test: measure how well people argue the other side after time with an agreeable assistant versus a neutral one. *Research happening* on sycophancy and echo chambers.
+- **A curated feed shrinks your information diet.** When the model picks what you see, you get its slant and less range than you'd find on your own. Test: compare the sources and viewpoints people meet through an assistant versus open search. *Research happening* on algorithmic bias.
+- **Outsourcing care makes us less compassionate.** If it handles the hard conversations, we practice compassion less. Test: whether heavy use for emotional tasks tracks with less real-world helping. *Haven't seen research.*
+- **AI companionship changes what we expect from each other.** Including dating and how the genders relate. Test: relationship expectations among heavy versus light companion users over time. *Research happening* through loneliness studies.
+- **It keeps us seated and indoors.** Test: activity and time outdoors as people move more tasks to AI. *Research happening* but mostly adjacent, on screen time and sedentary behavior.
+- **Letting AI do the work erodes ownership.** You understand it less and can't stand behind it. Test: whether people can explain and defend AI-heavy work versus work they made themselves. *Haven't seen research.*
+- **Writing with AI erodes your own voice.** Test: how distinct someone's writing stays after months of writing with AI versus without. *Research happening* on writing homogenization.
+
 ### The guardrails I'd try
 
 None of these exist as far as I know. They're extrapolations from the mechanisms above, which means they might be wrong, and a few of them might make things worse in exactly the way the research keeps warning about. That's the point of writing them down.
